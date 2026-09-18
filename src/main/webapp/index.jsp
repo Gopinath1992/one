@@ -20,9 +20,8 @@
             --surface: #f6f9fc;
             --success: #28a745;
             --radius: 12px;
+ --radius: 12px;
             --container: 1200px;
---container: 1200px;
---container: 1200px;
         }
 
         * {
