@@ -22,6 +22,7 @@
             --radius: 12px;
             --container: 1200px;
 --container: 1200px;
+--container: 1200px;
         }
 
         * {
