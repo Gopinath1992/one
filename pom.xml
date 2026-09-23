@@ -49,8 +49,8 @@
 
     <distributionManagement>
             <repository>
-  <id>flm-feed</id>
-  <url>https://pkgs.dev.azure.com/afsanabegummd00/MyFirstProject/_packaging/flm-feed/maven/v1</url>
+  <id>flm-feed1</id>
+  <url>https://pkgs.dev.azure.com/devopswithazurepractice/my-project/_packaging/flm-feed1/maven/v1</url>
   <releases>
     <enabled>true</enabled>
   </releases>
